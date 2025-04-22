@@ -1,6 +1,6 @@
-### Supermarket_Project
+# Supermarket_Project
 
-# GOAL:
+### GOAL:
 
 2Market seeked to understand their customer demographic while advancing their understanding on which advertising channels and products are most popular with them. In this report I addressed these questions and, using the knowledge I found, proposed some further questions that will require more complex data to solve. 
 
